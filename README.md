@@ -1,5 +1,5 @@
 # MFC_UDP
-Using MFC and Windows socket to implement UDP.
+Using MFC and Windows socket to implement UDP.  
 本项目不使用预编译  
 此外，需要将是否执行SDL检查设置为否  
 
